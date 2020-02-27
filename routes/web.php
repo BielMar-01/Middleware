@@ -16,6 +16,6 @@ use App\Http\Middleware\PrimeiroMiddleware;
 Route::get('/usuarios', 'UsuarioControlador@index')
     ->middleware('primeiro', 'segundo');
 
-Route::get('/', function() {
-    return 'teste';
-});
+Route::get('/terceiro', function() {
+    return 'Passou pelo terceiro Middleware';
+})->middleware('terceiro:joao');
