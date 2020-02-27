@@ -1,2 +1,26 @@
 [2020-02-27 14:07:13] local.DEBUG: Passou pelo Terceiro Middlware[ nome = joao ]  
 [2020-02-27 14:07:46] local.DEBUG: Passou pelo Terceiro Middlware [ nome = joao ]  
+[2020-02-27 14:23:42] local.DEBUG: Passou pelo PrimeiroMiddleware  
+[2020-02-27 14:23:42] local.DEBUG: Passou pelo SegundoMiddleware  
+[2020-02-27 14:28:13] local.DEBUG: Passou pelo PrimeiroMiddleware Antes  
+[2020-02-27 14:28:13] local.DEBUG: Passou pelo SegundoMiddleware  
+[2020-02-27 14:28:13] local.DEBUG: Passou pelo PrimeiroMiddleware Depois  
+[2020-02-27 14:29:53] local.DEBUG: Passou pelo PrimeiroMiddleware Antes  
+[2020-02-27 14:29:53] local.DEBUG: Passou pelo SegundoMiddleware  
+[2020-02-27 14:29:53] local.DEBUG: UsuarioControlador@index  
+[2020-02-27 14:29:53] local.DEBUG: Passou pelo PrimeiroMiddleware Depois  
+[2020-02-27 14:31:34] local.DEBUG: Passou pelo PrimeiroMiddleware Antes  
+[2020-02-27 14:31:34] local.DEBUG: Passou pelo SegundoMiddleware Antes  
+[2020-02-27 14:31:34] local.DEBUG: UsuarioControlador@index  
+[2020-02-27 14:31:34] local.DEBUG: Passou pelo SegundoMiddleware Depois  
+[2020-02-27 14:31:34] local.DEBUG: Passou pelo PrimeiroMiddleware Depois  
+[2020-02-27 14:34:18] local.DEBUG: Passou pelo PrimeiroMiddleware Antes  
+[2020-02-27 14:34:18] local.DEBUG: Passou pelo SegundoMiddleware Antes  
+[2020-02-27 14:34:18] local.DEBUG: UsuarioControlador@index  
+[2020-02-27 14:34:18] local.DEBUG: Passou pelo SegundoMiddleware Depois  
+[2020-02-27 14:34:18] local.DEBUG: Passou pelo PrimeiroMiddleware Depois  
+[2020-02-27 14:35:38] local.DEBUG: Passou pelo PrimeiroMiddleware Antes  
+[2020-02-27 14:35:38] local.DEBUG: Passou pelo SegundoMiddleware Antes  
+[2020-02-27 14:35:38] local.DEBUG: UsuarioControlador@index  
+[2020-02-27 14:35:38] local.DEBUG: Passou pelo SegundoMiddleware Depois  
+[2020-02-27 14:35:38] local.DEBUG: Passou pelo PrimeiroMiddleware Depois  
